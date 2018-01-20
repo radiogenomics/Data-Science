@@ -1,0 +1,5 @@
+This is a proposal to add STATA into the covered syntaxes
+This issue could be very controversial since STATA do files are relatively hard to get integrated and creating mash-up with those line is not standardized yet.
+
+But, cosidering the popularity of STATA in biomedical research community and epidemiology departments, this initiative should keep open as an option and in right time, we may decide to reopen this Branch and request a Pull after commiting new code-books
+
